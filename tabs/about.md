@@ -8,4 +8,4 @@ title: About
 # MIT License
 ---
 
-> **Note**: If you want to know more, <a href="http://jongsky.ga/"><kbd>Clik Me</kbd></a>.
+> **Note**: If you want to know more, <a href="http://jongsky.github.io/"><kbd>Clik Me</kbd></a>.
