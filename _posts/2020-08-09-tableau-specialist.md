@@ -74,8 +74,7 @@ toc: false
     - 각 단계별로 반복해서 풀었습니다.
 
 # 시험 결과
-![tableau-desktop-specialist](https://user-images.githubusercontent.com/40276516/89814937-eaceb900-db7e-11ea-87f4-e2d346fa5b5f.png)
-
+![tableau-specialist](/Study-Log/assets/img/post/certification/tableau-specialist.png)
 
 # 참고 글 및 영상
 - [Tableau-Desktop Specialist](https://www.tableau.com/ko-kr/learn/certification/desktop-specialist)
