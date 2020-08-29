@@ -1,6 +1,11 @@
-# Tableau-Specialist
-
-- Tableau Desktop Specialist CERTIFICATION 을 취득하는데 필요한 내용 정리
+---
+title: Tableau Desktop Specialist 자격증 정리 & 후기
+author: JONGSKY
+date: 2020-08-09 23:34:00
+categories: [Certification, Tableau]
+tags: [tableau, certification]
+toc: false
+---
 
 # 시험 관련 정보!
 
