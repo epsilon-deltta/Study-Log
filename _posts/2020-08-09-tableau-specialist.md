@@ -1,7 +1,7 @@
 ---
 title: Tableau Desktop Specialist 자격증 정리 & 후기
 author: JONGSKY
-date: 2020-08-09 23:34:00
+date: 2020-08-09 23:34:00 +0900
 categories: [Certification, Tableau]
 tags: [tableau, certification]
 toc: false
@@ -74,7 +74,7 @@ toc: false
     - 각 단계별로 반복해서 풀었습니다.
 
 # 시험 결과
-![tableau-specialist](/Study-Log/assets/img/post/certification/tableau-specialist.png)
+![tableau-specialist](/Study-Log/assets/img/certification/tableau-specialist.png)
 
 # 참고 글 및 영상
 - [Tableau-Desktop Specialist](https://www.tableau.com/ko-kr/learn/certification/desktop-specialist)
