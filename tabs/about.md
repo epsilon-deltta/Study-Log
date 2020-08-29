@@ -8,4 +8,4 @@ title: About
 # MIT License
 ---
 
-> **Note**: Add Markdown syntax content to file `tabs/about.md` and it will show up on this page.
+> **Note**: If you want to know more, <a href="http://jongsky.ga/"><kbd>Clik Me</kbd></a>.
