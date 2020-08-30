@@ -2,7 +2,7 @@
 title: Tableau Desktop Specialist 자격증 정리 & 후기
 author: JONGSKY
 date: 2020-08-09 23:34:00
-categories: [Certification, Tableau]
+categories: [Certification]
 tags: [tableau, certification]
 toc: false
 ---
