@@ -79,5 +79,4 @@ Disqus의 설정들을 하는 화면입니다.
 
 수정 후에 github에 push 하시면 댓글기능을 자유롭게 사용하실 수 있게됩니다!
 
-![image](https://user-images.githubusercontent.com/40276516/91743843-6ad2c680-ebf3-11ea-8032-b2a786d4685b.png)
-
+![image](https://user-images.githubusercontent.com/40276516/91745163-7de69600-ebf5-11ea-83f5-a3cc9049ba66.png)
