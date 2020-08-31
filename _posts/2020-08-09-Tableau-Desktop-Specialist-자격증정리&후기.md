@@ -74,7 +74,8 @@ toc: false
     - 각 단계별로 반복해서 풀었습니다.
 
 # 시험 결과
-![tableau-specialist](/Study-Log/assets/img/certification/tableau-specialist.png)
+![스크린샷, 2020-08-11 02-42-31](https://user-images.githubusercontent.com/40276516/91744198-0d8b4500-ebf4-11ea-8ceb-f1b4a74775c8.png)
+
 
 # 참고 글 및 영상
 - [Tableau-Desktop Specialist](https://www.tableau.com/ko-kr/learn/certification/desktop-specialist)
@@ -82,3 +83,5 @@ toc: false
 - [Tableau Desktop Specialist Certification 실감나는 도전 후기](https://viera.tistory.com/2) 
 - [Tableau Desktop Specialist 취득 후기](https://medium.com/@asaprocky123/tableau-specialists-%EC%B7%A8%EB%93%9D-%ED%9B%84%EA%B8%B0-%EC%93%B0%EB%8A%94%EC%A4%91-1c7eece0412e)
 - [TABLEAU DESKTOP SPECIALIST CERTIFICATION EXAM : Facts • Question Formats • Exam Day Tips • MORE ++](https://www.youtube.com/watch?time_continue=194&v=hlowWQqshh8&feature=emb_logo)
+
+시험에 관련해 **궁금한 내용**이 있거나 **질문**이 있으신 분들은 댓글 혹은 메일 보내주시면 아는만큼 답변드리도록 하겠습니다~
