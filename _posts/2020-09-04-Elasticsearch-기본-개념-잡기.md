@@ -1,5 +1,5 @@
 ---
-title: Elasticsearch은 무엇일까
+title: Elasticsearch 기본 개념 잡기
 author: JONGSKY
 date: 2020-09-04 23:00:00
 categories: [Elasticsearch]
