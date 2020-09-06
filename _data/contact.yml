@@ -11,7 +11,7 @@
 #   type: twitter
 #   icon: 'fab fa-twitter'
 -
-  icon: 'fab fa-file-user'   # icons powered by <https://fontawesome.com/>
+  icon: 'far fa-file-user'   # icons powered by <https://fontawesome.com/>
   url:  'http://jongsky.github.io/'                  # Fill with your mastodon account page
 -
   type: email
