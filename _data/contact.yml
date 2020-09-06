@@ -10,34 +10,28 @@
 # -
 #   type: twitter
 #   icon: 'fab fa-twitter'
-# -
-#   type: email
-#   icon: 'fas fa-envelope'
-#   noblank: true            # open link in current tab
-# -
-#   type: rss
-#   icon: 'fas fa-rss'
-#   noblank: true
+-
+  icon: 'fab fa-file-user'   # icons powered by <https://fontawesome.com/>
+  url:  'http://jongsky.github.io/'                  # Fill with your mastodon account page
+-
+  type: email
+  icon: 'fas fa-envelope'
+  noblank: true            # open link in current tab
+-
+  type: rss
+  icon: 'fas fa-rss'
+  noblank: true
 
 # Uncomment and complete the url below to enable more contact options
 # -
 #   icon: 'fab fa-mastodon'   # icons powered by <https://fontawesome.com/>
 #   url:  ''                  # Fill with your mastodon account page
--
-  icon: 'fab fa-instagram'   # icons powered by <https://fontawesome.com/>
-  url:  'https://www.instagram.com/jongsky_data/'                  # Fill with your Linkedin homepage
--
-  icon: 'fab fa-linkedin'   # icons powered by <https://fontawesome.com/>
-  url:  'https://www.linkedin.com/in/jong-sky/'                  # Fill with your Linkedin homepage
+# -
+#   icon: 'fab fa-instagram'   # icons powered by <https://fontawesome.com/>
+#   url:  'https://www.instagram.com/jongsky_data/'                  # Fill with your Linkedin homepage
+# -
+#   icon: 'fab fa-linkedin'   # icons powered by <https://fontawesome.com/>
+#   url:  'https://www.linkedin.com/in/jong-sky/'                  # Fill with your Linkedin homepage
 # -
 #   icon: 'fab fa-stack-overflow'
 #   url:  ''                  # Fill with your stackoverflow homepage
--
-  type: email
-  icon: 'fas fa-envelope'
-  noblank: true            # open link in current tab
-
--
-  type: rss
-  icon: 'fas fa-rss'
-  noblank: true
