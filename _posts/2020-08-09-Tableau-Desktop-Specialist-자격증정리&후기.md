@@ -7,7 +7,7 @@ tags: [tableau, certification]
 toc: false
 ---
 
-# 시험 관련 정보!
+## 시험 관련 정보!
 
 - 시험 방식 : 온라인
 - 제한 시간: 60분 (ID 체크, 컴퓨터 시스템 점검 포함 1시간 30분)
@@ -24,7 +24,7 @@ toc: false
 - 준비물 :(영문이름이 있는 국가공인 신분증)여권과 웹캠과 마이크가 있는 노트북이 있다. 신분증은 영문이름이 적혀있는 것이 필요로 해서 여권이 필요하고, 노트북이 없다면 웹캠과 마이크가 있는 데스크탑도 괜찮다. (웹캠과 마이크가 만약 없으면 응시 자체가 불가능 하므로 유의하자)
 
 
-# 시험 응시 과정
+## 시험 응시 과정
 
 1. 응시사이트 가입하기
 
@@ -65,7 +65,7 @@ toc: false
     - 문제를 모두 풀면 submit을 눌러도 괜찮지만, 카운트다운이 모두 완료되면 자동으로 넘어가진다.
     - 별 문제가 없으면 감독관이 확인을 하고 시험은 종료되고 그리고 곧바로 시험 결과를 알 수 있다. 
 
-# 공부 방법
+## 공부 방법
 - 다른 사람들이 올린 후기글 및 영상을 참고해 시험 보는 방법에 대해 공부했습니다. (하단의 참고 글 및 영상 링크 참고)
 - [태블로 커뮤니티](https://github.com/JONGSKY/Tableau_community)에서 활동하며 공부했습니다.
 - [만들고 싶은 대시보드](https://github.com/JONGSKY/Visualization)를 만들며 공부했습니다.
@@ -73,11 +73,11 @@ toc: false
 - [Udemy-Tableau Desktop Specialist Certification - Practice Tests'20](https://www.udemy.com/share/101qYsAEETdl1UQ34D/)를 통해 공부했습니다.
     - 각 단계별로 반복해서 풀었습니다.
 
-# 시험 결과
+## 시험 결과
 ![스크린샷, 2020-08-11 02-42-31](https://user-images.githubusercontent.com/40276516/91744198-0d8b4500-ebf4-11ea-8ceb-f1b4a74775c8.png)
 
 
-# 참고 글 및 영상
+## 참고 글 및 영상
 - [Tableau-Desktop Specialist](https://www.tableau.com/ko-kr/learn/certification/desktop-specialist)
 - [Tableau-Desktop-Specialist-자격증-후기](https://velog.io/@2innnnn0/Tableau-Desktop-Specialist-%EC%9E%90%EA%B2%A9%EC%A6%9D-%ED%9B%84%EA%B8%B0)
 - [Tableau Desktop Specialist Certification 실감나는 도전 후기](https://viera.tistory.com/2) 
